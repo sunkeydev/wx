@@ -1,0 +1,18 @@
+{
+    "name": "sunkey/wx",
+    "description": "weixin development kit",
+    "keywords": ["composer", "weixin", "wx"],
+    "license": "MIT",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Sunkey",
+            "email": "sunkeydev@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "5.2.*",
+        "guzzlehttp/guzzle": "~6.0"       
+    }
+}
