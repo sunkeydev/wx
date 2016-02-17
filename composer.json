@@ -1,7 +1,7 @@
 {
-    "name": "sunkey/wx",
+    "name": "sunkeydev/wx",
     "description": "weixin development kit",
-    "keywords": ["composer", "weixin", "wx"],
+    "keywords": ["laravel", "composer", "weixin", "wx"],
     "license": "MIT",
     "type": "package",
     "authors": [
